@@ -1,0 +1,6 @@
+client/build/
+client/public/
+server/build/
+server/data/fakeData.js
+tests/mocha-babel.js
+node_modules/
